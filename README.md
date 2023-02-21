@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LoicFromSAYNA1/LoicFromSAYNA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Loic from SAYNA. It's digital school to learn all digitals jobs with a good family spirit and game way.
+- 👀 I’m interested in code but i am not developer, sorry !
+- 🌱 I’m currently learning all things about development and specifically how to learn it.
+- 💞️ I’m looking to collaborate on many projects to see all the methodoly development in the world, good luck for me !
+- 📫 How to reach me : loicfromsayna@gmail.com
 
-Here are some ideas to get you started:
+<br><br>
+More about SAYNA : https://sayna.io/<br>
+More about me : https://www.linkedin.com/in/lo%C3%AFc-dominguez-30a694122/
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> To the pleasure of exchanging and/or collaborating together <--
